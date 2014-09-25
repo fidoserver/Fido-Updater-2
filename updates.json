@@ -1,0 +1,7 @@
+{
+  "0.0.1": {
+    "version": "0.0.1",
+    "description": "Update to GrovePi Firmware",
+    "script": "0.0.1.js"
+  }
+}
